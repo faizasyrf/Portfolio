@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Pirata+One&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FaizAsyrf</title>
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+            <img class="logo__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/2158/7687/t/26/assets/blank_1x1.gif?v=50849316544257392421656683066" data-widths="[50,60,70,80,90,100,110,120,130,140,150,160,170,180,200,220,240,260,280,300,320,340,360,380,400,420,440,460,480,500]" data-aspectratio="1.4548335974643423" data-sizes="auto" loading="lazy" width="60" height="41.24183006535948" alt="" data-srcset="//cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_50x.gif?v=1656624615 50w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_60x.gif?v=1656624615 60w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_70x.gif?v=1656624615 70w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_80x.gif?v=1656624615 80w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_90x.gif?v=1656624615 90w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_100x.gif?v=1656624615 100w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_110x.gif?v=1656624615 110w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_120x.gif?v=1656624615 120w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_130x.gif?v=1656624615 130w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_140x.gif?v=1656624615 140w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_150x.gif?v=1656624615 150w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_160x.gif?v=1656624615 160w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_170x.gif?v=1656624615 170w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_180x.gif?v=1656624615 180w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_200x.gif?v=1656624615 200w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_220x.gif?v=1656624615 220w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_240x.gif?v=1656624615 240w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_260x.gif?v=1656624615 260w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_280x.gif?v=1656624615 280w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_300x.gif?v=1656624615 300w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_320x.gif?v=1656624615 320w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_340x.gif?v=1656624615 340w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_360x.gif?v=1656624615 360w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_380x.gif?v=1656624615 380w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_400x.gif?v=1656624615 400w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_420x.gif?v=1656624615 420w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_440x.gif?v=1656624615 440w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_460x.gif?v=1656624615 460w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_480x.gif?v=1656624615 480w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_500x.gif?v=1656624615 500w" sizes="59.64817749603803px" srcset="//cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_50x.gif?v=1656624615 50w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_60x.gif?v=1656624615 60w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_70x.gif?v=1656624615 70w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_80x.gif?v=1656624615 80w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_90x.gif?v=1656624615 90w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_100x.gif?v=1656624615 100w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_110x.gif?v=1656624615 110w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_120x.gif?v=1656624615 120w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_130x.gif?v=1656624615 130w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_140x.gif?v=1656624615 140w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_150x.gif?v=1656624615 150w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_160x.gif?v=1656624615 160w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_170x.gif?v=1656624615 170w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_180x.gif?v=1656624615 180w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_200x.gif?v=1656624615 200w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_220x.gif?v=1656624615 220w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_240x.gif?v=1656624615 240w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_260x.gif?v=1656624615 260w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_280x.gif?v=1656624615 280w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_300x.gif?v=1656624615 300w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_320x.gif?v=1656624615 320w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_340x.gif?v=1656624615 340w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_360x.gif?v=1656624615 360w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_380x.gif?v=1656624615 380w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_400x.gif?v=1656624615 400w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_420x.gif?v=1656624615 420w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_440x.gif?v=1656624615 440w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_460x.gif?v=1656624615 460w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_480x.gif?v=1656624615 480w, //cdn.shopify.com/s/files/1/2158/7687/files/ezgif.com-gif-maker_500x.gif?v=1656624615 500w">
+            <div class="item">
+                <ul>
+                <a href="/home.html">Home</a>
+                <a href="/about.html">About</a>
+                <a href="/skills.html">Skills</a>
+                <a href="/services.html">Services</a>
+                <a href="/portfolio.html">Portfolio</a>
+                </ul>
+            </div>
+        </div>
+        <div class="navbar-right">
+            <a href="#" class="btn">Hire Me</a>
+        </div>
+    </div>
+    <section class="home" id="home">
+        <div class="home-text">
+            <h4>Hello, my name is</h4>
+            <h1><span>Faiz</span> Asyraf</h1>
+            <h3>I'm a Front-End Developer</h3>
+            <div class="sosial">
+                <a href="https://instagram.com/faiz.asyrf" target="_blank"><img src="asset/instagram.png" width="30px"></a>
+                <a href="https://wa.me/+6281281234211" target="_blank"><img src="asset/whatsapp.png" width="30px"></a>
+                <a href="https://faizasyraf246@gmail.com" target="_blank"><img src="asset/email.png" width="30px"></a>
+                <a href="https://www.facebook.com/me/" target="_blank"><img src="asset/facebook.png" width="30px"></a>
+            </div>
+        </div>
+    </section>
+ 
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
